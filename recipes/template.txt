@@ -1,0 +1,30 @@
+<body>
+  <h1></h1>
+  <img src="images/" />
+  <h3>
+
+  </h3>
+  <h4>Ingredients</h4>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+  <h4>Directions</h4>
+  <ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
+</body>
